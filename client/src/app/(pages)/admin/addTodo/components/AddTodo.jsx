@@ -53,7 +53,7 @@ const ProjectDetails = () => {
   const getFileIcon = (type) => {
     switch(type) {
       case 'image':
-        return <Image className="h-4 w-4" />;
+        return <Image className="h-4 w-4" alt=''/>;
       case 'pdf':
         return <FileText className="h-4 w-4" />;
       default:

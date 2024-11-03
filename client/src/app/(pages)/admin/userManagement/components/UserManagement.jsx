@@ -3,6 +3,7 @@
 import React, { useState } from 'react';
 import { Search, MoreHorizontal, Edit, Trash2, UserPlus } from 'lucide-react';
 import NavBar from '../../components/NavBar';
+import Image from 'next/image';
 
 const UserManagement = () => {
     const [isOpen, setIsOpen] = useState(false);
@@ -185,7 +186,7 @@ const UserManagement = () => {
                                     <tr key={index} className="border-b border-gray-700">
                                         <td className="py-4">
                                             <div className="flex items-center space-x-3">
-                                                <img
+                                                <Image
                                                     src={user.avatar}
                                                     alt={user.name}
                                                     className="h-8 w-8 rounded-full"

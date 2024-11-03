@@ -87,7 +87,7 @@ const Dashboard = () => {
                 {/* Header */}
                 <div className="mb-8 flex flex-col sm:flex-row items-start sm:items-center justify-between space-y-4 sm:space-y-0">
                     <div>
-                        <h1 className="text-xl lg:text-2xl font-medium text-white">Welcome back, Admin</h1>
+                        <h1 className="text-xl lg:text-2xl font-medium text-white">Welcome back Admin</h1>
                         <p className="text-sm text-gray-400">Here you can check the project improvements</p>
                     </div>
                     <div className="flex flex-col sm:flex-row items-stretch sm:items-center space-y-2 sm:space-y-0 sm:space-x-4 w-full sm:w-auto">

@@ -33,7 +33,7 @@ const JobDetailsPage = () => {
     "Proficiency in Figma, Sketch, or similar design tools",
     "Experience with design systems and component libraries",
     "Excellent communication and presentation skills",
-    "Bachelor's degree in Design, HCI, or related field"
+    "Bachelors degree in Design, HCI, or related field"
   ];
 
   const benefits = [
@@ -87,10 +87,10 @@ const JobDetailsPage = () => {
             <section>
               <h2 className="text-2xl font-bold mb-4">Overview</h2>
               <p className="text-gray-300 leading-relaxed">
-                We're looking for a talented Product Designer to join our growing team. 
-                As a Product Designer, you'll work closely with product managers, developers, 
+                We are looking for a talented Product Designer to join our growing team. 
+                As a Product Designer, you will work closely with product managers, developers, 
                 and stakeholders to create exceptional user experiences that millions of people 
-                will use every day. You'll have the opportunity to shape our product direction 
+                will use every day. You will have the opportunity to shape our product direction 
                 and make a significant impact on our design culture.
               </p>
             </section>

@@ -3,6 +3,7 @@
 import React from 'react';
 import { Search } from 'lucide-react';
 import NavBar from '../../components/NavBar';
+import Image from 'next/image';
 
 const UserForm = () => {
   return (
@@ -91,7 +92,7 @@ const UserForm = () => {
                 <label className="block text-white text-sm mb-2">Photo</label>
                 <div className="flex items-center space-x-4">
                   <div className="h-16 w-16 rounded-full bg-purple-500 flex items-center justify-center">
-                    <img src="/api/placeholder/64/64" alt="Profile" className="h-16 w-16 rounded-full" />
+                    <Image src="/api/placeholder/64/64" alt="Profile" className="h-16 w-16 rounded-full" />
                   </div>
                   <div className="h-16 w-16 rounded-full bg-purple-500/20 flex items-center justify-center">
                     <div className="w-4 h-4 bg-purple-500 rounded-full"></div>
