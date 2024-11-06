@@ -111,7 +111,7 @@ const LandingPage = () => {
       {/* Navigation */}
       <nav className="relative flex items-center justify-between p-4 lg:p-6">
         <div className="font-bold">
-          <img
+          <Image
             src="https://i.postimg.cc/TYQghNSb/synx-up-01-Yb-N9-XRn8-LOi5-J9-Qb.png"
             alt="logo"
             className="w-24 lg:w-36 h-auto"
@@ -177,7 +177,7 @@ const LandingPage = () => {
             What we do?
           </h2>
           <p className="text-gray-300 text-center mb-8 md:mb-16 max-w-3xl mx-auto px-4">
-            From UI/UX Design to Scalable Cloud Solutions – Empowering Every Stage of Your Digital Journey
+            From UI/UX Design to Scalable Cloud Solutions  Empowering Every Stage of Your Digital Journey
           </p>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
@@ -200,7 +200,7 @@ const LandingPage = () => {
             What us?
           </h2>
           <p className="text-gray-300 text-center mb-8 md:mb-16 max-w-3xl mx-auto">
-            Your Software Your Budget - We are flexible for every budget and project
+            Your Software Your Budget We are flexible for every budget and project
           </p>
 
           {/* Feature Cards */}
@@ -208,7 +208,7 @@ const LandingPage = () => {
             {/* First Feature Card */}
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mx-auto max-w-4xl bg-white/10 backdrop-blur-sm rounded-lg overflow-hidden border border-white/10 hover:border-purple-500/50 transition-all">
               <div className="relative h-64 md:h-80">
-                <img
+                <Image
                   src="https://i.postimg.cc/XYhMdNLy/pexels-olia-danilevich-4974912.jpg"
                   alt="Developer coding"
                   className="w-full h-full object-cover"
@@ -230,7 +230,7 @@ const LandingPage = () => {
             {/* Second Feature Card */}
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mx-auto max-w-4xl bg-white/10 backdrop-blur-sm rounded-lg overflow-hidden border border-white/10 hover:border-purple-500/50 transition-all">
               <div className="relative h-64 md:h-80 md:order-last">
-                <img
+                <Image
                   src="https://i.postimg.cc/dtsKKxDD/pexels-olia-danilevich-4974920.jpg"
                   alt="Developer coding"
                   className="w-full h-full object-cover"
@@ -241,7 +241,7 @@ const LandingPage = () => {
                   Low in Budget but Better in Quality
                 </h3>
                 <p className="text-gray-300 mb-6">
-                  With our global team using our DNA of Lean and Agile methods, we deliver the best output cost-effectively. No compromise in quality!
+                  With our global team using our DNA of Lean and Agile methods, we deliver the best output cost-effectively. No compromise in quality
                 </p>
                 <button className="text-purple-400 hover:text-purple-300 transition-colors">
                   Learn more
@@ -317,7 +317,7 @@ const LandingPage = () => {
           >
             <div className="absolute inset-0 bg-gradient-to-r from-purple-500/5 to-blue-500/5 blur-3xl -z-10" />
             <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-8 text-gray-100">
-              It's time to bring your dream project to life with us! Our powerful team is here to make it happen.
+              It is time to bring your dream project to life with us! Our powerful team is here to make it happen.
             </h2>
             <motion.button
               whileHover={{ scale: 1.05 }}

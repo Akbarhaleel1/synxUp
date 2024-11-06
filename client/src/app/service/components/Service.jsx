@@ -261,7 +261,7 @@ const LandingPage = () => {
                                     <span className="text-blue-300">Detail</span>{" "}
                                     <span className="text-violet-300">{"}"}</span>{" "}
                                     <span className="text-purple-400">from</span>{" "}
-                                    <span className="text-green-300">"@raycast/api"</span>;
+                                    <span className="text-green-300">@raycast/api</span>;
                                     {"\n\n"}
                                     <span className="text-purple-400">export default function</span>{" "}
                                     <span className="text-blue-300">Command</span>

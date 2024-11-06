@@ -58,7 +58,7 @@ const CareersPage = () => {
         <div className="text-center mb-20">
           <h1 className="text-4xl font-bold mb-4">Join Us</h1>
           <p className="text-gray-400 mb-8">
-            If you enjoy a good challenge and productive partnerships, we'd love to hear from you.
+            If you enjoy a good challenge and productive partnerships, we had love to hear from you.
             Check our open positions or drop us a line.
           </p>
           <div className="space-x-4">

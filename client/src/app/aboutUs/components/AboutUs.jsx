@@ -11,6 +11,7 @@ import BackgroundLinesDemoForAboutUs from '../../components/outsideComponents/Ba
 import CardHoverEffectDemo from '../../components/outsideComponents/CardHoverEffectDemo';
 import ContactPage from '../../components/FooterSection/ContactPage';
 import Footer from '../../components/FooterSection/Footer';
+import Image from 'next/image';
 
 // Animation variants remain the same
 const fadeInUp = {
@@ -211,7 +212,7 @@ const AboutUs = () => {
                     animate={{ x: 0, opacity: 1 }}
                     transition={{ duration: 0.8 }}
                 >
-                    <img
+                    <Image
                         src="https://i.postimg.cc/TYQghNSb/synx-up-01-Yb-N9-XRn8-LOi5-J9-Qb.png"
                         alt="logo"
                         className="w-20 lg:w-36 h-auto" // Adjusted logo size for mobile

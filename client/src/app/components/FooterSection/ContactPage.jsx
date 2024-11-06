@@ -38,10 +38,10 @@ const ContactPage = () => {
           <div className="p-8">
             <div className="mb-6">
               <h3 className="text-xl text-white font-semibold mb-2">
-                Let's connect constellations
+                Let connect constellations
               </h3>
               <p className="text-gray-400 text-sm">
-                Fill out our contact form, and we'll be in touch to schedule a quick call or answer any questions. Let's bring your vision to life with development solutions built for your success.
+                Fill out our contact form, and we will be in touch to schedule a quick call or answer any questions. Let bring your vision to life with development solutions built for your success.
               </p>
             </div>
 
@@ -112,7 +112,7 @@ const ContactPage = () => {
             />
             <div className="absolute bottom-8 left-8 right-8 text-white z-20">
               <p className="text-lg">
-                Where innovation meets integrity – let's bring your vision to life with a commitment to excellence.
+                Where innovation meets integrity –let bring your vision to life with a commitment to excellence.
               </p>
             </div>
           </div>
