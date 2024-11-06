@@ -1,7 +1,6 @@
 import React from 'react';
 import { Mail, Twitter, Instagram, Facebook } from 'lucide-react';
 import Link from 'next/link';
-import Image from 'next/image';
 
 const Footer = () => {
   return (
@@ -46,7 +45,7 @@ const Footer = () => {
           <div className="mb-4 md:mb-0">
             <span className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent">
               <div className="font-bold">
-                <Image
+                <img
                   src="https://i.postimg.cc/TYQghNSb/synx-up-01-Yb-N9-XRn8-LOi5-J9-Qb.png"
                   alt="logo"
                   className="w-36 h-auto"

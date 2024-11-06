@@ -131,7 +131,7 @@ const LandingPage = () => {
             {/* Navigation */}
             <nav className="relative flex items-center justify-between p-4 lg:p-6">
                 <div className="font-bold">
-                    <Image 
+                    <Image
                         src="https://i.postimg.cc/TYQghNSb/synx-up-01-Yb-N9-XRn8-LOi5-J9-Qb.png"
                         alt="logo"
                         className="w-24 lg:w-36 h-auto"
@@ -227,7 +227,7 @@ const LandingPage = () => {
                                     className="bg-gray-900 rounded-lg p-4 flex items-center justify-center aspect-square transition-all hover:bg-gray-800"
                                 >
                                     <div className="w-28 h-28">
-                                        <Image 
+                                        <Image
                                             src={tech.image}
                                             alt={tech.name}
                                             className="w-full h-full object-contain"
@@ -261,7 +261,7 @@ const LandingPage = () => {
                                     <span className="text-blue-300">Detail</span>{" "}
                                     <span className="text-violet-300">{"}"}</span>{" "}
                                     <span className="text-purple-400">from</span>{" "}
-                                    <span className="text-green-300">@raycast/api</span>;
+                                    <span className="text-green-300">"@raycast/api"</span>;
                                     {"\n\n"}
                                     <span className="text-purple-400">export default function</span>{" "}
                                     <span className="text-blue-300">Command</span>
@@ -273,7 +273,7 @@ const LandingPage = () => {
                                     <span className="text-blue-300">Detail</span>{" "}
                                     <span className="text-pink-400">markdown</span>
                                     <span className="text-white">=</span>
-                                    <span className="text-green-300">Hello World!</span>
+                                    <span className="text-green-300">Hello</span>
                                     {" />"};
                                 </pre>
                             </div>

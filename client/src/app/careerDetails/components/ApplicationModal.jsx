@@ -239,7 +239,7 @@ const ApplicationModal = ({ isOpen, onClose, jobTitle }) => {
                 Application Submitted!
               </h3>
               <p className="text-gray-400 mb-6">
-                Thank you for applying. We will review your application and get back to you soon.
+                Thank you for applying. We'll review your application and get back to you soon.
               </p>
               <button
                 onClick={onClose}
