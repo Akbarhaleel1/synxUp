@@ -9,10 +9,10 @@ export default function CardHoverEffectDemo() {
 }
 export const projects = [
   {
-    title: "Apple",
+    title: "Identify",
     description:
-      "A multinational technology company that designs, manufactures, and markets consumer electronics, software, and services, known for products like the iPhone, iPad, and Mac.",
-    link: "https://apple.com",
+      "Conduct Functional Testing. Perform Performance and Load Testing. Execute User Acceptance Testing.",
+    // link: "https://apple.com",
   },
   {
     title: "IBM",
