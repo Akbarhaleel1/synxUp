@@ -12,7 +12,7 @@ export const projects = [
     title: "Identify",
     description:
       "Conduct Functional Testing. Perform Performance and Load Testing. Execute User Acceptance Testing.",
-    // link: "https://apple.com",
+    link: "https://apple.com",
   },
   {
     title: "IBM",
