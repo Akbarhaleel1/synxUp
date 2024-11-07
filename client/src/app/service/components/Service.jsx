@@ -131,7 +131,7 @@ const LandingPage = () => {
             {/* Navigation */}
             <nav className="relative flex items-center justify-between p-4 lg:p-6">
                 <div className="font-bold">
-                    <Image
+                    <img
                         src="https://i.postimg.cc/TYQghNSb/synx-up-01-Yb-N9-XRn8-LOi5-J9-Qb.png"
                         alt="logo"
                         className="w-24 lg:w-36 h-auto"
@@ -227,7 +227,7 @@ const LandingPage = () => {
                                     className="bg-gray-900 rounded-lg p-4 flex items-center justify-center aspect-square transition-all hover:bg-gray-800"
                                 >
                                     <div className="w-28 h-28">
-                                        <Image
+                                        <img
                                             src={tech.image}
                                             alt={tech.name}
                                             className="w-full h-full object-contain"
@@ -387,7 +387,7 @@ const NavItem = ({ text }) => (
 
 const PartnerLogo = ({ src, alt }) => (
     <div className="h-6 md:h-8 w-20 md:w-24 relative">
-        <Image src={src} alt={alt} className="object-contain w-full h-full" />
+        <img src={src} alt={alt} className="object-contain w-full h-full" />
     </div>
 );
 
