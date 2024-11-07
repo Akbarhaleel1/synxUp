@@ -111,7 +111,7 @@ const LandingPage = () => {
       {/* Navigation */}
       <nav className="relative flex items-center justify-between p-4 lg:p-6">
         <div className="font-bold">
-          <Image
+          <img
             src="https://i.postimg.cc/TYQghNSb/synx-up-01-Yb-N9-XRn8-LOi5-J9-Qb.png"
             alt="logo"
             className="w-24 lg:w-36 h-auto"
@@ -208,7 +208,7 @@ const LandingPage = () => {
             {/* First Feature Card */}
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mx-auto max-w-4xl bg-white/10 backdrop-blur-sm rounded-lg overflow-hidden border border-white/10 hover:border-purple-500/50 transition-all">
               <div className="relative h-64 md:h-80">
-                <Image
+                <img
                   src="https://i.postimg.cc/XYhMdNLy/pexels-olia-danilevich-4974912.jpg"
                   alt="Developer coding"
                   className="w-full h-full object-cover"
@@ -230,7 +230,7 @@ const LandingPage = () => {
             {/* Second Feature Card */}
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mx-auto max-w-4xl bg-white/10 backdrop-blur-sm rounded-lg overflow-hidden border border-white/10 hover:border-purple-500/50 transition-all">
               <div className="relative h-64 md:h-80 md:order-last">
-                <Image
+                <img
                   src="https://i.postimg.cc/dtsKKxDD/pexels-olia-danilevich-4974920.jpg"
                   alt="Developer coding"
                   className="w-full h-full object-cover"
