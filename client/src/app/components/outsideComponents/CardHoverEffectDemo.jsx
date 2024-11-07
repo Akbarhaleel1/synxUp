@@ -9,9 +9,9 @@ export default function CardHoverEffectDemo() {
 }
 export const projects = [
   {
-    title: "Identify",
+    title: "Apple",
     description:
-      "Conduct Functional Testing. Perform Performance and Load Testing. Execute User Acceptance Testing.",
+      "A multinational technology company that designs, manufactures, and markets consumer electronics, software, and services, known for products like the iPhone, iPad, and Mac.",
     link: "https://apple.com",
   },
   {
