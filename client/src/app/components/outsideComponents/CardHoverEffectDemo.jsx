@@ -9,52 +9,52 @@ export default function CardHoverEffectDemo() {
 }
 export const projects = [
   {
-    title: "Apple",
+    title: "Identify",
     description:
-      "A multinational technology company that designs, manufactures, and markets consumer electronics, software, and services, known for products like the iPhone, iPad, and Mac.",
-    link: "https://apple.com",
+      "Understand Client Requirements. Define Project Goals. Conduct Market and Competitor Analysis.",
+    // link: "https://apple.com",
   },
   {
-    title: "IBM",
+    title: "Proposal",
     description:
-      "A multinational technology and consulting company that offers a range of services, including cloud computing, artificial intelligence, and enterprise solutions.",
-    link: "https://ibm.com",
+      "Create a Detailed Project Plan. Establish Timeline and Milestones. Provide Budget Estimation.",
+    // link: "https://ibm.com",
   },
   {
-    title: "Stripe",
+    title: "Prototyping",
     description:
-      "A technology company that builds economic infrastructure for the internet.",
-    link: "https://stripe.com",
+      "Develop Mockups and Wireframes. Gather Feedback and Reviews. Refine and Adjust.",
+    // link: "https://stripe.com",
   },
   {
-    title: "Netflix",
+    title: "Development",
     description:
-      "A streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices.",
-    link: "https://netflix.com",
+      "Use Clean code and Implement it. Integrate Components. Provide Regular Progress Updates.",
+    // link: "https://netflix.com",
   },
   {
-    title: "Google",
+    title: "Quality Testing",
     description:
-      "A multinational technology company that specializes in Internet-related services and products.",
-    link: "https://google.com",
+      "Conduct Functional Testing. Perform Performance and Load Testing. Execute User Acceptance Testing.",
+    // link: "https://google.com",
   },
   {
-    title: "Meta",
+    title: "Review",
     description:
-      "A technology company that focuses on building products that advance Facebook's mission of bringing the world closer together.",
-    link: "https://meta.com",
+      "Gather Client Feedback. Iterate and Improve. Obtain Final Approval.",
+    // link: "https://meta.com",
   },
   {
-    title: "Amazon",
+    title: "Live",
     description:
-      "A multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
-    link: "https://amazon.com",
+      "Prepare for Deployment. Execute Launch. Monitor Initial Performance.",
+    // link: "https://amazon.com",
   },
   {
-    title: "Microsoft",
+    title: "Support",
     description:
-      "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",
-    link: "https://microsoft.com",
+      "Provide Ongoing Maintenance. Fix Bugs and Release Updates. Offer User Training and Documentation.",
+    // link: "https://microsoft.com",
   },
   {
     title: "Spotify",
